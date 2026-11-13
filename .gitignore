@@ -1,0 +1,94 @@
+# Unity (gerado automaticamente)
+/Library/
+/Temp/
+/Obj/
+/Logs/
+/UserSettings/
+/Build/
+/Builds/
+/MemoryCaptures/
+/Recordings/
+*.csproj
+*.sln
+*.pidb
+*.suo
+*.user
+.vs/
+.idea/
+
+# Segredos e configurações locais (.mcp.json contém token)
+.mcp.json
+.claude/
+
+# Arquivos que não fazem parte do jogo
+*.pdf
+Scenes.zip
+Scripts.zip
+Assets/Scenes.zip*
+Assets/Scripts.zip*
+*.unitypackage
+
+# Assets não usados pelas 5 fases (continuam no disco, fora do git)
+/Assets/Scenes/
+/Assets/Scenes.meta
+/Assets/_TerrainAutoUpgrade/
+/Assets/_TerrainAutoUpgrade.meta
+/Assets/(PBR) Low-Grow Flora/
+/Assets/(PBR) Low-Grow Flora.meta
+/Assets/Game Buffs/Free Stylized Textures/Demo/
+/Assets/Game Buffs/Free Stylized Textures/Demo.meta
+/Assets/URP_WasteOvergrowth_SA/Material/Group_PrefabScene/
+/Assets/URP_WasteOvergrowth_SA/Material/Group_PrefabScene.meta
+/Assets/Falling Idle.fbx
+/Assets/Falling Idle.fbx.meta
+/Assets/Game Buffs/Free Stylized Textures/README.txt
+/Assets/Game Buffs/Free Stylized Textures/README.txt.meta
+/Assets/New Terrain 1.asset
+/Assets/New Terrain 1.asset.meta
+/Assets/NewLayer 1.terrainlayer
+/Assets/NewLayer 1.terrainlayer.meta
+/Assets/NewLayer 2.terrainlayer
+/Assets/NewLayer 2.terrainlayer.meta
+/Assets/NewLayer 3.terrainlayer
+/Assets/NewLayer 3.terrainlayer.meta
+/Assets/NewLayer.terrainlayer
+/Assets/NewLayer.terrainlayer.meta
+/Assets/Resources.meta
+/Assets/Scenes.zip
+/Assets/Scenes.zip.meta
+/Assets/Scripts.zip
+/Assets/Scripts.zip.meta
+/Assets/Scripts/Scripts.meta
+/Assets/URP_WasteOvergrowth_SA/AssetLayoutScene.unity
+/Assets/URP_WasteOvergrowth_SA/AssetLayoutScene.unity.meta
+/Assets/URP_WasteOvergrowth_SA/DemoScene.unity
+/Assets/URP_WasteOvergrowth_SA/DemoScene.unity.meta
+/Assets/URP_WasteOvergrowth_SA/HDRP_WasteOvergrowth_SA.unitypackage
+/Assets/URP_WasteOvergrowth_SA/HDRP_WasteOvergrowth_SA.unitypackage.meta
+/Assets/URP_WasteOvergrowth_SA/Material/Bottles/Mat_BottleCap1.mat
+/Assets/URP_WasteOvergrowth_SA/Material/Bottles/Mat_BottleCap1.mat.meta
+/Assets/URP_WasteOvergrowth_SA/Material/Demo_Material.mat
+/Assets/URP_WasteOvergrowth_SA/Material/Demo_Material.mat.meta
+/Assets/URP_WasteOvergrowth_SA/README.txt
+/Assets/URP_WasteOvergrowth_SA/README.txt.meta
+/Assets/URP_WasteOvergrowth_SA/SampleSceneProfile.asset
+/Assets/URP_WasteOvergrowth_SA/SampleSceneProfile.asset.meta
+/Assets/URP_WasteOvergrowth_SA/textures/Bottles/Tex_ Bottle _Bottle_opacque_S.png
+/Assets/URP_WasteOvergrowth_SA/textures/Bottles/Tex_ Bottle _Bottle_opacque_S.png.meta
+/Assets/URP_WasteOvergrowth_SA/textures/FoodCOntainer/Tex_ContainerGroup_CA.tga
+/Assets/URP_WasteOvergrowth_SA/textures/FoodCOntainer/Tex_ContainerGroup_CA.tga.meta
+/Assets/URP_WasteOvergrowth_SA/textures/Paper/LitteredPaper/PaperTexture_group_01_C.png
+/Assets/URP_WasteOvergrowth_SA/textures/Paper/LitteredPaper/PaperTexture_group_01_C.png.meta
+/Assets/URP_WasteOvergrowth_SA/textures/Paper/LitteredPaper/PaperTexture_group_01_N.png
+/Assets/URP_WasteOvergrowth_SA/textures/Paper/LitteredPaper/PaperTexture_group_01_N.png.meta
+/Assets/URP_WasteOvergrowth_SA/textures/Paper/tex_Paper_flat02_C.png
+/Assets/URP_WasteOvergrowth_SA/textures/Paper/tex_Paper_flat02_C.png.meta
+/Assets/URP_WasteOvergrowth_SA/textures/Stain/Tex_Stain_S.png
+/Assets/URP_WasteOvergrowth_SA/textures/Stain/Tex_Stain_S.png.meta
+/Assets/URP_WasteOvergrowth_SA/textures/Stain/untitled_Material_SpecularSmoothness.png
+/Assets/URP_WasteOvergrowth_SA/textures/Stain/untitled_Material_SpecularSmoothness.png.meta
+/Assets/URP_WasteOvergrowth_SA/textures/TrashContainer/tex_Trashbin_S.png
+/Assets/URP_WasteOvergrowth_SA/textures/TrashContainer/tex_Trashbin_S.png.meta
+/Assets/URP_WasteOvergrowth_SA/textures/particles/fly.png
+/Assets/URP_WasteOvergrowth_SA/textures/particles/fly.png.meta
+/Assets/URP_WasteOvergrowth_SA/Material/Paper/Grouped/mat_PaperGrp*ed_03.mat*
